@@ -1,0 +1,17 @@
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelperTest.exe
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelperTest.deps.json
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelperTest.runtimeconfig.json
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelperTest.dll
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelperTest.pdb
+C:\resource\CsvHelperTest\bin\Debug\net6.0\CsvHelper.dll
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.csproj.AssemblyReference.cache
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.AssemblyInfoInputs.cache
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.AssemblyInfo.cs
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.csproj.CoreCompileInputs.cache
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.csproj.CopyComplete
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.dll
+C:\resource\CsvHelperTest\obj\Debug\net6.0\refint\CsvHelperTest.dll
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.pdb
+C:\resource\CsvHelperTest\obj\Debug\net6.0\CsvHelperTest.genruntimeconfig.cache
+C:\resource\CsvHelperTest\obj\Debug\net6.0\ref\CsvHelperTest.dll

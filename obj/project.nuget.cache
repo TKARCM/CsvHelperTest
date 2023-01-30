@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CH/91nkZpCa5e/H706wSCtPOYCWl8pogPrhDMusbIT2bw4Qgk5aJLNqoILOIeX33hZNRclkLRSbR7Qew+OyfOQ==",
+  "success": true,
+  "projectFilePath": "c:\\resource\\CsvHelperTest\\CsvHelperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tkarc\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
