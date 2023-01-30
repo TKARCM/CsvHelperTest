@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\resource\\CsvHelperTest\\CsvHelperTest.csproj": {}
+    "C:\\resource\\CsvHelperTest\\CsvHelperTest.csproj": {}
   },
   "projects": {
-    "c:\\resource\\CsvHelperTest\\CsvHelperTest.csproj": {
+    "C:\\resource\\CsvHelperTest\\CsvHelperTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\resource\\CsvHelperTest\\CsvHelperTest.csproj",
+        "projectUniqueName": "C:\\resource\\CsvHelperTest\\CsvHelperTest.csproj",
         "projectName": "CsvHelperTest",
-        "projectPath": "c:\\resource\\CsvHelperTest\\CsvHelperTest.csproj",
+        "projectPath": "C:\\resource\\CsvHelperTest\\CsvHelperTest.csproj",
         "packagesPath": "C:\\Users\\tkarc\\.nuget\\packages\\",
-        "outputPath": "c:\\resource\\CsvHelperTest\\obj\\",
+        "outputPath": "C:\\resource\\CsvHelperTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -15,7 +15,6 @@ internal class Program
         //全てのセルを取得してA1から出力する
         using (var reader = new StreamReader(path))
         using (var csv = new CsvReader(new CsvParser(reader, CultureInfo.InvariantCulture)))
-
         {
             var records = csv.GetRecords<ExampleRecord>();
             foreach (var record in records)
@@ -23,6 +22,7 @@ internal class Program
                 Console.WriteLine($"{record.Name}, {record.Age}");
             }
         }
+
 
         //特定のセルにアクセスするにはこのように書く
         using (var reader = new StreamReader(path))
